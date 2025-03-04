@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Node plot with D3.js</title>
+</head>
+<body>
+    <div class="container">
+        <div class="file-list" id="fileListContainer">
+            <div>
+                <h2><i>DOCUMENT ID</i></h2>
+            </div>
+            <ul id="fileNames"></ul>
+        </div>
+        <div class="workspace" id="workspace">
+            <h2><i>WORKSPACE</i></h2>
+        </div>
+        <svg id="chart"></svg>
+        <div class="tooltip" style="display: none"></div>
+    </div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

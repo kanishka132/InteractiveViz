@@ -1,0 +1,115 @@
+{
+    "1950 - 1950": {
+        "files": [
+            "CIA_05",
+            "CIA_docs.txt"
+        ]
+    },
+    "1970 - 1970": {
+        "files": [
+            "CIA_23",
+            "CIA_docs.txt"
+        ]
+    },
+    "2000 - 2002": {
+        "files": [
+            "CIA_02",
+            "CIA_docs.txt",
+            "FBI_08",
+            "FBI_11",
+            "FBI_22",
+            "FBI_docs.txt"
+        ]
+    },
+    "2003 - 2003": {
+        "files": [
+            "CIA_01",
+            "CIA_03",
+            "CIA_04",
+            "CIA_07",
+            "CIA_08",
+            "CIA_11",
+            "CIA_12",
+            "CIA_13",
+            "CIA_15",
+            "CIA_16",
+            "CIA_17",
+            "CIA_18",
+            "CIA_19",
+            "CIA_21",
+            "CIA_23",
+            "CIA_24",
+            "CIA_30",
+            "CIA_docs.txt",
+            "FBI_01",
+            "FBI_02",
+            "FBI_04",
+            "FBI_05",
+            "FBI_06",
+            "FBI_07",
+            "FBI_08",
+            "FBI_09",
+            "FBI_10",
+            "FBI_12",
+            "FBI_14",
+            "FBI_19",
+            "FBI_23",
+            "FBI_25",
+            "FBI_34",
+            "FBI_docs.txt",
+            "NSA_01",
+            "NSA_02",
+            "NSA_05",
+            "NSA_06",
+            "NSA_09",
+            "NSA_10",
+            "NSA_docs.txt"
+        ]
+    },
+    "2004 - 2004": {
+        "files": [
+            "CIA_25",
+            "CIA_26",
+            "CIA_29",
+            "CIA_30",
+            "CIA_33",
+            "CIA_37",
+            "CIA_41",
+            "CIA_42",
+            "CIA_43",
+            "CIA_docs.txt",
+            "DIA_02",
+            "DIA_03",
+            "DIA_docs.txt",
+            "FBI_14",
+            "FBI_15",
+            "FBI_19",
+            "FBI_22",
+            "FBI_23",
+            "FBI_26",
+            "FBI_28",
+            "FBI_30",
+            "FBI_31",
+            "FBI_33",
+            "FBI_34",
+            "FBI_35",
+            "FBI_36",
+            "FBI_37",
+            "FBI_38",
+            "FBI_39",
+            "FBI_40",
+            "FBI_41",
+            "FBI_docs.txt",
+            "NSA_14",
+            "NSA_15",
+            "NSA_16",
+            "NSA_19",
+            "NSA_20",
+            "NSA_21",
+            "NSA_22",
+            "NSA_docs.txt",
+            "USCBP_01",
+            "USCBP_docs.txt"
+        ]
+    }
+}
